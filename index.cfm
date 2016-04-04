@@ -24,4 +24,6 @@ I am learning ColdFusion to work with #name#
 
 <cfinclude template="lists.cfm">
 
+<cfinclude template="arrays.cfm">
+
 <cfinclude template="footer.cfm">
