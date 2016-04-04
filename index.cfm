@@ -43,10 +43,6 @@ I am learning ColdFusion to work with #name#
 </ul>
 </cfoutput>
 
-<cfloop from="1" to="10" index="i" step="2">
-<cfoutput>
-#i#<br/>
-</cfoutput>
-</cfloop>
+<cfinclude template="loops.cfm">
 
 <cfinclude template="footer.cfm">
